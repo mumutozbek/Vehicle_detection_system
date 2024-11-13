@@ -69,8 +69,6 @@ vehicle-tracking-system/
 ```
 
 
-https://github.com/user-attachments/assets/cea62682-fea9-403a-90c4-75eb1f1109c1
-
 
 ## Usage Guide
 
