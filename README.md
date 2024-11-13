@@ -2,6 +2,9 @@
 
 A computer vision system for detecting and counting vehicles in video feeds using YOLO and computer vision techniques.
 
+<img width="1047" alt="Screenshot 2024-11-13 at 17 38 22" src="https://github.com/user-attachments/assets/a3148b53-3000-4a22-bb50-f1c347f9211f">
+
+
 ## Features
 - Real-time vehicle detection and tracking
 - Accurate IN/OUT vehicle counting
