@@ -2,6 +2,11 @@
 
 A computer vision system for detecting and counting vehicles in video feeds using YOLO and computer vision techniques.
 
+## Demo
+![Vehicle Tracking Demo](demo.gif)
+https://github.com/user-attachments/assets/cea62682-fea9-403a-90c4-75eb1f1109c1
+
+
 ## Features
 - Real-time vehicle detection and tracking
 - Accurate IN/OUT vehicle counting
@@ -10,8 +15,7 @@ A computer vision system for detecting and counting vehicles in video feeds usin
 - Automatic video saving with timestamps
 - Multi-platform support (Windows, macOS, Linux)
 
-## Demo
-![Vehicle Tracking Demo](demo.gif)
+
 
 ## Setup
 
