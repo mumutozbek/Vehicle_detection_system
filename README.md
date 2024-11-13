@@ -2,11 +2,6 @@
 
 A computer vision system for detecting and counting vehicles in video feeds using YOLO and computer vision techniques.
 
-## Demo
-![Vehicle Tracking Demo](demo.gif)
-https://github.com/user-attachments/assets/cea62682-fea9-403a-90c4-75eb1f1109c1
-
-
 ## Features
 - Real-time vehicle detection and tracking
 - Accurate IN/OUT vehicle counting
@@ -45,6 +40,8 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+## Demo
+![Vehicle Tracking Demo](demo.gif)
 
 ## Project Structure
 ```
@@ -68,6 +65,7 @@ vehicle-tracking-system/
 └── requirements.txt
 ```
 
+https://github.com/user-attachments/assets/cea62682-fea9-403a-90c4-75eb1f1109c1
 
 
 ## Usage Guide
