@@ -64,6 +64,10 @@ vehicle-tracking-system/
 └── requirements.txt
 ```
 
+
+https://github.com/user-attachments/assets/cea62682-fea9-403a-90c4-75eb1f1109c1
+
+
 ## Usage Guide
 
 1. Start the Application:
