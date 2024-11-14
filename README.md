@@ -19,8 +19,8 @@ A computer vision system for detecting and counting vehicles in video feeds usin
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mumutozbek/vehicle-tracking-system.git
-cd vehicle-tracking-system
+git clone https://github.com/mumutozbek/Vehicle_detection_system.git
+cd Vehicle_detection_system
 ```
 
 2. Create and activate virtual environment:
